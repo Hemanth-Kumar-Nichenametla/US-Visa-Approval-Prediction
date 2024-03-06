@@ -32,7 +32,6 @@ list_of_files = [
     
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
-    
     f"{project_name}/app.py",
     f"{project_name}/requirements.txt",
     f"{project_name}/Dockerfile",
@@ -41,8 +40,8 @@ list_of_files = [
     f"{project_name}/setup.py",
     f"{project_name}/config/model.yaml",
     f"{project_name}/config/schema.yaml",
-    f"{project_name}/test.py",
-    "test1.py"
+    f"{project_name}/config/model.yaml",
+    "app1.py",
     
 ]
 
