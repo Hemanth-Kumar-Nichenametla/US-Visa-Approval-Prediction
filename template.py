@@ -32,17 +32,15 @@ list_of_files = [
     
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
-    
-    "app.py",
-    "requirements.txt",
-    "Dockerfile",
-    ".dockerignore",
-    "demo.py",
-    "setup.py",
-    "config/model.yaml",
-    "config/schema.yaml"
-    
-    
+    f"{project_name}/app.py",
+    f"{project_name}/requirements.txt",
+    f"{project_name}/Dockerfile",
+    f"{project_name}/.dockerignore",
+    f"{project_name}/demo.py",
+    f"{project_name}/setup.py",
+    f"{project_name}/config/model.yaml",
+    f"{project_name}/config/schema.yaml",
+    f"{project_name}/test.py"
     
 ]
 
