@@ -42,6 +42,7 @@ list_of_files = [
     f"{project_name}/config/model.yaml",
     f"{project_name}/config/schema.yaml",
     f"{project_name}/test.py",
+    "test1.py"
     
 ]
 
